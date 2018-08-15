@@ -1,0 +1,114 @@
+Ação(es) executada(s): Conforme solicitação, efetuado ronda em sala de vídeo conferência do 5º andar do site Comendador Araújo - Curitiba, efetuado teste na mesma e conforme fotos em anexo, está funcional para uso em reuniões.
+
+
+Nome do Analista: Sidney S. Duarte
+
+
+
+Fechamento: 
+
+Efetuado ronda em sala de vídeo conferência do 5º andar do site Comendador Araújo - Curitiba.
+
+
+##### DEVOLUÇÃO #######
+
+Tipo : Notebook
+Marca/Modelo : Lenovo L440
+Serial : PE-02DXVX
+Nome/matrícula de quem devolveu: EVELYN THAIS MACHADO
+Nome do colaborador desligado: JEAN CARLOS DE ANDRADE
+
+Periféricos : 
+Teclado () SIM (X) NÃO
+Mouse (X) SIM () NÃO
+Cabo RCA (X) SIM ()NÃO
+Mochila (X) SIM () NÃO
+Cabo de Segurança () SIM (X) NÃO
+Suporte Ergonômico () SIM (X) NÃO
+Fonte (X) SIM () NÃO
+
+Analista: Sidney S. Duarte
+
+FECHAMENTO:
+
+Equipamento recolhido conforme solicitação. 
+
+##### SUBSTITUIÇÃO #####
+- Instalado
+NOTEBOOK
+Hostname: NTPR66370
+Nº de série: J7450Y1
+Marca/Modelo: DELL Latitude 6430u
+
+- Retirado
+NOTEBOOK
+Hostname: NTPR66366
+Nº de série: BRG929F7CW
+Marca/Modelo: HP 6930p
+
+Localidade (Site/Depto):SITE COMENDADOR ARAÚJO - CURITIBA / PR
+Nome completo ou Login do usuário que foi instalado/retirado o equipamento: RUBENS TAKASHI HIDA
+Nome completo ou Login do Owner do equipamento (Coordenador ou Gestor do Usuário): Tharso Vasconcelos Vieira
+
+SCCM instalado: SIM 
+
+Analista: Sidney S. Duarte
+
+FECHAMENTO:
+
+Notebook substituído e entregue a usuário conforme solicitado.
+####################################
+
+SCANNER
+- Instalado
+Nº de série: CN283E20PP	
+Marca/Modelo: HP G2410
+
+- Retirado
+
+Nº de série: CN55EB102X
+Marca/Modelo: HP G2410
+
+Localidade (Site/Depto):
+Nome completo ou Login do usuário que foi instalado/retirado o equipamento: LISIANE DOS SANTOS POLIPPO BORGES
+Nome completo ou Login do Owner do equipamento (Coordenador ou Gestor do Usuário): Luana Pellussi Severo
+
+
+Analista: Sidney S. Duarte
+
+FECHAMENTO:
+
+Scanner substituído e entregue a usuário conforme solicitado.
+
+#########SOLICITAÇÃO DE PEÇA########
+
+Tipo do equipamento: NOTEBOOK
+Equipamento operacional: (X) Sim    () Não
+Equipamento de Loja? () Sim    (X) Não
+Endereço completo para envio da peça: RUA COMENDADOR ARAUJO, 299
+BAIRRO: CENTRO
+CEP: 80420-000
+Nome do responsável pelo recebimento: PAULO EMILIO
+Telefone do responsável pelo recebimento: 414106-6408
+E-mail do responsável pelo recebimento: pcruz_capgemini@timbrasil.com.br
+Hostname:NTPR61009
+Modelo do equipamento: HP Probook 6450b
+Serial: BRG103F4RD
+Nome da peça a ser substituída: BATERIA
+Part Number da peça a ser substituída: SEM ETIQUETA
+Uso inadequado () Sim    (X) Não
+Desgaste natural (X) Sim    () Não
+Sofreu algum tipo de impacto, queda () Sim    (X) Não
+Causa do Defeito (Descreva): Bateria não segura carga por muito tempo. 
+
+###################################################
+
+Nome: DIONE NUNES
+GSM:  041-99913-0534
+
+0800-701-4815
+Chamado Garantia Lenovo: 4069Q2V
+Novo Chamado Garantia Lenovo: 406CC9M
+
+
+99565 0999
