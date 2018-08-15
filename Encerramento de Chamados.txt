@@ -1,4 +1,4 @@
-AÁ„o(es) executada(s): Conforme solicitaÁ„o, efetuado ronda em sala de vÌdeo conferÍncia do 5∫ andar do site Comendador Ara˙jo - Curitiba, efetuado teste na mesma e conforme fotos em anexo, est· funcional para uso em reuniıes.
+A√ß√£o(es) executada(s): Conforme solicita√ß√£o, efetuado ronda em sala de v√≠deo confer√™ncia do 5¬∫ andar do site Comendador Ara√∫jo - Curitiba, efetuado teste na mesma e conforme fotos em anexo, est√° funcional para uso em reuni√µes.
 
 
 Nome do Analista: Sidney S. Duarte
@@ -7,48 +7,48 @@ Nome do Analista: Sidney S. Duarte
 
 Fechamento: 
 
-Efetuado ronda em sala de vÌdeo conferÍncia do 5∫ andar do site Comendador Ara˙jo - Curitiba.
+Efetuado ronda em sala de v√≠deo confer√™ncia do 5¬∫ andar do site Comendador Ara√∫jo - Curitiba.
 
 
-##### DEVOLU«√O #######
+##### DEVOLU√á√ÉO #######
 
 Tipo : Notebook
 Marca/Modelo : Lenovo L440
 Serial : PE-02DXVX
-Nome/matrÌcula de quem devolveu: EVELYN THAIS MACHADO
+Nome/matr√≠cula de quem devolveu: EVELYN THAIS MACHADO
 Nome do colaborador desligado: JEAN CARLOS DE ANDRADE
 
-PerifÈricos : 
-Teclado () SIM (X) N√O
-Mouse (X) SIM () N√O
-Cabo RCA (X) SIM ()N√O
-Mochila (X) SIM () N√O
-Cabo de SeguranÁa () SIM (X) N√O
-Suporte ErgonÙmico () SIM (X) N√O
-Fonte (X) SIM () N√O
+Perif√©ricos : 
+Teclado () SIM (X) N√ÉO
+Mouse (X) SIM () N√ÉO
+Cabo RCA (X) SIM ()N√ÉO
+Mochila (X) SIM () N√ÉO
+Cabo de Seguran√ßa () SIM (X) N√ÉO
+Suporte Ergon√¥mico () SIM (X) N√ÉO
+Fonte (X) SIM () N√ÉO
 
 Analista: Sidney S. Duarte
 
 FECHAMENTO:
 
-Equipamento recolhido conforme solicitaÁ„o. 
+Equipamento recolhido conforme solicita√ß√£o. 
 
-##### SUBSTITUI«√O #####
+##### SUBSTITUI√á√ÉO #####
 - Instalado
 NOTEBOOK
 Hostname: NTPR66370
-N∫ de sÈrie: J7450Y1
+N¬∫ de s√©rie: J7450Y1
 Marca/Modelo: DELL Latitude 6430u
 
 - Retirado
 NOTEBOOK
 Hostname: NTPR66366
-N∫ de sÈrie: BRG929F7CW
+N¬∫ de s√©rie: BRG929F7CW
 Marca/Modelo: HP 6930p
 
-Localidade (Site/Depto):SITE COMENDADOR ARA⁄JO - CURITIBA / PR
-Nome completo ou Login do usu·rio que foi instalado/retirado o equipamento: RUBENS TAKASHI HIDA
-Nome completo ou Login do Owner do equipamento (Coordenador ou Gestor do Usu·rio): Tharso Vasconcelos Vieira
+Localidade (Site/Depto):SITE COMENDADOR ARA√öJO - CURITIBA / PR
+Nome completo ou Login do usu√°rio que foi instalado/retirado o equipamento: RUBENS TAKASHI HIDA
+Nome completo ou Login do Owner do equipamento (Coordenador ou Gestor do Usu√°rio): Tharso Vasconcelos Vieira
 
 SCCM instalado: SIM 
 
@@ -56,59 +56,49 @@ Analista: Sidney S. Duarte
 
 FECHAMENTO:
 
-Notebook substituÌdo e entregue a usu·rio conforme solicitado.
+Notebook substitu√≠do e entregue a usu√°rio conforme solicitado.
 ####################################
 
 SCANNER
 - Instalado
-N∫ de sÈrie: CN283E20PP	
+N¬∫ de s√©rie: CN283E20PP	
 Marca/Modelo: HP G2410
 
 - Retirado
 
-N∫ de sÈrie: CN55EB102X
+N¬∫ de s√©rie: CN55EB102X
 Marca/Modelo: HP G2410
 
 Localidade (Site/Depto):
-Nome completo ou Login do usu·rio que foi instalado/retirado o equipamento: LISIANE DOS SANTOS POLIPPO BORGES
-Nome completo ou Login do Owner do equipamento (Coordenador ou Gestor do Usu·rio): Luana Pellussi Severo
+Nome completo ou Login do usu√°rio que foi instalado/retirado o equipamento: LISIANE DOS SANTOS POLIPPO BORGES
+Nome completo ou Login do Owner do equipamento (Coordenador ou Gestor do Usu√°rio): Luana Pellussi Severo
 
 
 Analista: Sidney S. Duarte
 
 FECHAMENTO:
 
-Scanner substituÌdo e entregue a usu·rio conforme solicitado.
+Scanner substitu√≠do e entregue a usu√°rio conforme solicitado.
 
-#########SOLICITA«√O DE PE«A########
+#########SOLICITA√á√ÉO DE PE√áA########
 
 Tipo do equipamento: NOTEBOOK
-Equipamento operacional: (X) Sim    () N„o
-Equipamento de Loja? () Sim    (X) N„o
-EndereÁo completo para envio da peÁa: RUA COMENDADOR ARAUJO, 299
+Equipamento operacional: (X) Sim    () N√£o
+Equipamento de Loja? () Sim    (X) N√£o
+Endere√ßo completo para envio da pe√ßa: RUA COMENDADOR ARAUJO, 299
 BAIRRO: CENTRO
 CEP: 80420-000
-Nome do respons·vel pelo recebimento: PAULO EMILIO
-Telefone do respons·vel pelo recebimento: 414106-6408
-E-mail do respons·vel pelo recebimento: pcruz_capgemini@timbrasil.com.br
+Nome do respons√°vel pelo recebimento: PAULO EMILIO
+Telefone do respons√°vel pelo recebimento: 414106-6408
+E-mail do respons√°vel pelo recebimento: pcruz_capgemini@timbrasil.com.br
 Hostname:NTPR61009
 Modelo do equipamento: HP Probook 6450b
 Serial: BRG103F4RD
-Nome da peÁa a ser substituÌda: BATERIA
-Part Number da peÁa a ser substituÌda: SEM ETIQUETA
-Uso inadequado () Sim    (X) N„o
-Desgaste natural (X) Sim    () N„o
-Sofreu algum tipo de impacto, queda () Sim    (X) N„o
-Causa do Defeito (Descreva): Bateria n„o segura carga por muito tempo. 
+Nome da pe√ßa a ser substitu√≠da: BATERIA
+Part Number da pe√ßa a ser substitu√≠da: SEM ETIQUETA
+Uso inadequado () Sim    (X) N√£o
+Desgaste natural (X) Sim    () N√£o
+Sofreu algum tipo de impacto, queda () Sim    (X) N√£o
+Causa do Defeito (Descreva): Bateria n√£o segura carga por muito tempo. 
 
 ###################################################
-
-Nome: DIONE NUNES
-GSM:  041-99913-0534
-
-0800-701-4815
-Chamado Garantia Lenovo: 4069Q2V
-Novo Chamado Garantia Lenovo: 406CC9M
-
-
-99565 0999
